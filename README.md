@@ -18,11 +18,16 @@ UID    : 21BCS10996
 
 Contact Number: +91 9911390972
 
+## API Used:
+This project fetches the latest news articles from the NDTV API, which can be found at https://ndtvapi.vercel.app/. The API provides news articles in JSON format.
 
 # Novelties/Features:
 1) News are categorise in differet sections.
 2) Highlighted/Breaking News leads at top as Pop-ups
 3) Weather Update
+
+# Website Link
+[Solum_ShrutiNarad_21BCS10829](https://news19.vercel.app/)
 
 
 
