@@ -25,6 +25,7 @@ This project fetches the latest news articles from the NDTV API, which can be fo
 1) News are categorise in differet sections.
 2) Highlighted/Breaking News leads at top as Pop-ups
 3) Weather Update
+4) Modes are Changable (Dark or Light)
 
 # Website Link
 [Solum_ShrutiNarad_21BCS10829](https://news19.vercel.app/)
