@@ -1,6 +1,6 @@
 # Project
 ## This is our Project for IIT Delhi Hackathon
-## Team Name: Sarthak
+## Team Name: Nishanth
 ## Team Members:
 ### Shruti Manohar Narad
 ### Harshit KUmar
