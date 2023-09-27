@@ -3,7 +3,7 @@
 ## Team Name: Nishanth
 ## Team Members:
 ### Shruti Manohar Narad
-### Harshit KUmar
+### Harshit Kumar
 ### Aryan Raj
 ### Sakshi Sharma
 ## Instructions:
